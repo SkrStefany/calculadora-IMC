@@ -1,4 +1,4 @@
 # calculadora-IMC
 
-<img src="image.png" alt="Imagem projeto">
+  <img src="image.png" alt="Imagem projeto">
  
